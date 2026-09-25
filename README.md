@@ -43,11 +43,11 @@ Currently focused on Full-Stack development, with Python & automation next.
   <a href="https://www.instagram.com/arnavrajcodes" title="Instagram">
     <img src="https://skillicons.dev/icons?i=instagram" height="45" />
   </a>&nbsp;&nbsp;
-  <a href="https://x.com/arnavrajcodes" title="X">
-    <img src="https://cdn.simpleicons.org/x/ffffff" height="41" />
-  </a>&nbsp;&nbsp;
   <a href="mailto:contact.arnavraj@gmail.com" title="Email">
     <img src="https://skillicons.dev/icons?i=gmail" height="45" />
+  </a>&nbsp;&nbsp;
+  <a href="https://x.com/arnavrajcodes" title="X">
+    <img src="https://cdn.simpleicons.org/x/ffffff" height="42" />
   </a>
 </p>
 
