@@ -22,15 +22,22 @@ Currently focused on Full-Stack development, with Python & automation next.
 
 <br>
 
+## Latest Notes
+
+- [JavaScript](https://github.com/arnavrajcodes/my-notes/blob/main/javascript/js-01.md) (in progress)
+- [Programming languages](https://github.com/arnavrajcodes/my-notes/blob/main/programming-basics/programming-languages.md)
+
+<br>
+
 ## Shipped
 
-**[Cotiarc](https://cotiarc.pages.dev/)** - A private habit tracker with streaks and a year-at-a-glance calendar. Export your progress as a PDF. Free, no signup.
+- **[Cotiarc](https://cotiarc.pages.dev/)** - A private habit tracker with streaks and a year-at-a-glance calendar. Export your progress as a PDF. Free, no signup.
 
-**[Aftomi](https://aftomi.pages.dev/)** - A browser-based PDF workflow tool. Set up a pipeline once (remove pages, merge, invert, greyscale, multi-page layouts) and run it whenever you need. Runs 100% client-side - files never leave your device.
+- **[Aftomi](https://aftomi.pages.dev/)** - A browser-based PDF workflow tool. Set up a pipeline once (remove pages, merge, invert, greyscale, multi-page layouts) and run it whenever you need. Runs 100% client-side - files never leave your device.
 
-**[OperateMaths](https://operatemaths.iarnavrajpurohit.workers.dev/)** - A browser-based maths workspace: equation solver with full working, function grapher, calculus lab, and a formula reference hub - all running instantly in-browser.
+- **[OperateMaths](https://operatemaths.iarnavrajpurohit.workers.dev/)** - A browser-based maths workspace: equation solver with full working, function grapher, calculus lab, and a formula reference hub - all running instantly in-browser.
 
-**[ethruce](https://ethruce.pages.dev/)** - A concept landing page design for an AI automation agency. Built as a UI/design prototype (not a live product).
+- **[ethruce](https://ethruce.pages.dev/)** - A concept landing page design for an AI automation agency. Built as a UI/design prototype (not a live product).
 <br>
 
 ## Connect
