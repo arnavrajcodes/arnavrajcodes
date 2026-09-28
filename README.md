@@ -24,11 +24,13 @@ Currently focused on Full-Stack development, with Python & automation next.
 
 ## Shipped
 
-**[Aftomi](https://aftomi.pages.dev/)** - a browser-based PDF workflow tool. Set up a pipeline once (remove pages, merge, invert, greyscale, multi-page layouts) and run it whenever you need. Runs 100% client-side - files never leave your device.
+**[Cotiarc](https://cotiarc.pages.dev/)** - A private habit tracker with streaks and a year-at-a-glance calendar. Export your progress as a PDF. Free, no signup.
 
-**[OperateMaths](https://operatemaths.iarnavrajpurohit.workers.dev/)** - a browser-based maths workspace: equation solver with full working, function grapher, calculus lab, and a formula reference hub - all running instantly in-browser.
+**[Aftomi](https://aftomi.pages.dev/)** - A browser-based PDF workflow tool. Set up a pipeline once (remove pages, merge, invert, greyscale, multi-page layouts) and run it whenever you need. Runs 100% client-side - files never leave your device.
 
-**[ethruce](https://ethruce.pages.dev/)** - a concept landing page design for an AI automation agency. Built as a UI/design prototype (not a live product).
+**[OperateMaths](https://operatemaths.iarnavrajpurohit.workers.dev/)** - A browser-based maths workspace: equation solver with full working, function grapher, calculus lab, and a formula reference hub - all running instantly in-browser.
+
+**[ethruce](https://ethruce.pages.dev/)** - A concept landing page design for an AI automation agency. Built as a UI/design prototype (not a live product).
 <br>
 
 ## Connect
