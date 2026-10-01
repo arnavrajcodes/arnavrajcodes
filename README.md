@@ -25,6 +25,7 @@ Currently focused on Full-Stack development, with Python & automation next.
 ## Latest Notes
 
 - [JavaScript](https://github.com/arnavrajcodes/my-notes/blob/main/javascript/js-01.md) (in progress)
+- [CS50x Notes](https://github.com/arnavrajcodes/my-notes/blob/main/cs50-notes/lecture-0.md) (in progress)
 - [Programming languages](https://github.com/arnavrajcodes/my-notes/blob/main/programming-basics/programming-languages.md)
 
 <br>
