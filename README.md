@@ -4,7 +4,7 @@
 
 ### Frontend Designer → Full-Stack Developer
 
-Currently focused on Full-Stack development, with Python & automation next.
+Currently focused on Full-Stack development.
 <br>
 ♟️ Chess player. Code debugger. Same brain, different board.
 
@@ -16,7 +16,7 @@ Currently focused on Full-Stack development, with Python & automation next.
 
 - 🎓 Learning to code - currently working through **CS50**
 - 🎨 Background in **Frontend / UI design**
-- 🌱 Next up: **Python & automation**
+- 🌱 Next up: **Javascript**
 - 📓 Notes on what I'm learning, in my own words → [`my-notes`](https://github.com/arnavrajcodes/my-notes)
 - 💬 Ask me about design, or how I built Aftomi in a day using AI tools
 
