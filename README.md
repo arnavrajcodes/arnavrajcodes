@@ -2,7 +2,7 @@
 
 # Hey, I'm Arnav Rajpurohit
 
-### Frontend Designer → Full-Stack Developer
+## Founder & CEO of AERODHARA
 
 Currently focused on Full-Stack development.
 <br>
@@ -19,6 +19,14 @@ Currently focused on Full-Stack development.
 - 🌱 Next up: **Javascript**
 - 📓 Notes on what I'm learning, in my own words → [`my-notes`](https://github.com/arnavrajcodes/my-notes)
 - 💬 Ask me about design, or how I built Aftomi in a day using AI tools
+
+<br>
+
+## AERODHARA
+
+- Aerodhara is an upcoming aerospace and mobility concept brand imagining vehicles that move across sky, land and water. First concept: Trayan-X, an interactive 3D model.
+- Visit My Concept Design: [AERODHARA](https://aerodhara.pages.dev)
+- Take a look at the repo: [AERODHARA](https://github.com/arnavrajcodes/aerodhara)
 
 <br>
 
