@@ -24,9 +24,8 @@ Currently focused on Full-Stack development.
 
 ## AERODHARA
 
-- Aerodhara is an upcoming aerospace and mobility concept brand imagining vehicles that move across sky, land and water. First concept: Trayan-X, an interactive 3D model.
+- An upcoming aerospace and mobility concept brand imagining vehicles that move across sky, land and water. First concept: Trayan-X, an interactive 3D model.
 - Visit My Concept Design: [AERODHARA](https://aerodhara.pages.dev)
-- Take a look at the repo: [AERODHARA](https://github.com/arnavrajcodes/aerodhara)
 
 <br>
 
