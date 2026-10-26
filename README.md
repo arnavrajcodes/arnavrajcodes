@@ -25,7 +25,7 @@
 ## ✦ About
 
 > I started as a designer. Today I'm a **Frontend Developer and AI-powered product builder**: I design the look, direct AI to write and generate the build, and ship polished, aesthetic products that are live on the web, on Android and inside Telegram.
-> From an idea to a deployed site on **Cloudflare Pages** with your own domain, fast.
+> From an idea to a deployed site on **Cloudflare Pages**, fast.
 
 | | |
 |---|---|
@@ -85,8 +85,8 @@ All of these run **100% client-side**. Your files and data never leave your devi
 
 | | Project | Where to find it |
 |:--:|:--|:--|
-| 🎮 | **[Aero Arcade](https://aeroarcade.pages.dev/)** <br><sub>Pure canvas mini games. Play anywhere, offline.</sub> <br>A retro-inspired flight and sci-fi arcade collection built with zero bulky frameworks. Titles include *Contrail Curse*, *Aero Legend* (12 levels, 4 worlds, 4 bosses), *Sky Ace*, *Dogfight*, *Bomber Run*, *Void Siege* and *Orbital Defender*. | 🌐 [Play on web](https://aeroarcade.pages.dev/) <br>🤖 [Android APK](https://aeroarcadeapp.pages.dev/) <br>✈️ [Telegram bot](https://t.me/aeroarcadebot) |
-| 📖 | **[Libri by Arnav](https://libribyarnav.pages.dev/)** <br><sub>A reading room for my novels.</sub> <br>Pick a book, open it, and read it one page at a time. | 🌐 [Read on web](https://libribyarnav.pages.dev/) <br>🤖 [Android APK](https://libribyarnav.pages.dev/) <br>✈️ [Telegram bot](https://t.me/libribyarnavbot) |
+| 🎮 | **[Aero Arcade](https://aeroarcade.pages.dev/)** <br><sub>Pure canvas mini games. Play anywhere, offline.</sub> <br>A retro-inspired flight and sci-fi arcade collection built with zero bulky frameworks. Titles include *Contrail Curse*, *Aero Legend* (12 levels, 4 worlds, 4 bosses), *Sky Ace*, *Dogfight*, *Bomber Run*, *Void Siege* and *Orbital Defender*. | 🌐 [Web](https://aeroarcade.pages.dev/) <br>🤖 [APK](https://aeroarcadeapp.pages.dev/) <br>✈️ [Bot](https://t.me/aeroarcadebot) |
+| 📖 | **[Libri by Arnav](https://libribyarnav.pages.dev/)** <br><sub>A reading room for my novels.</sub> <br>Pick a book, open it, and read it one page at a time. | 🌐 [Web](https://libribyarnav.pages.dev/) <br>🤖 [APK](https://libribyarnav.pages.dev/) <br>✈️ [Bot](https://t.me/libribyarnavbot) |
 
 > Both Android apps are wrapped with **Capacitor**, and their source lives on GitHub. Every title is also available as a **Telegram Mini App**.
 
