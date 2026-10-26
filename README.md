@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,50:1d4ed8,100:7c3aed&height=190&section=header&text=Arnav%20Rajpurohit&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%C2%B7%20AI-Powered%20Product%20Builder&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="Arnav Rajpurohit" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,50:1d4ed8,100:7c3aed&height=190&section=header&text=Arnav%20Rajpurohit&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Frontend%20and%20UI%20Designer%20%C2%B7%20AI-Assisted%20Product%20Builder&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="Arnav Rajpurohit" />
 
 ### Creator of : **AERO ARCADE** &nbsp;·&nbsp; **ZORPT** &nbsp;·&nbsp; **AFTOMI**
 <sub>Founder of **AERODHARA**, a concept aerospace & mobility brand</sub>
@@ -16,6 +16,7 @@
 <a href="https://zorpt.pages.dev/"><img src="https://img.shields.io/badge/ZORPT-1d4ed8?style=for-the-badge" alt="Zorpt" /></a>
 <a href="https://aerodhara.pages.dev/"><img src="https://img.shields.io/badge/AERODHARA-334155?style=for-the-badge" alt="Aerodhara" /></a>
 <a href="https://libribyarnav.pages.dev/"><img src="https://img.shields.io/badge/Libri_by_Arnav-e7e5dd?style=for-the-badge&labelColor=e7e5dd&logoColor=111" alt="Libri" /></a>
+<a href="https://arnavrajcodes.pages.dev/blog.html"><img src="https://img.shields.io/badge/Blog-7c3aed?style=for-the-badge" alt="Blog" /></a>
 <img src="https://img.shields.io/badge/Available_for_work-22c55e?style=for-the-badge" alt="Available for work" />
 
 </div>
@@ -24,12 +25,12 @@
 
 ## ✦ About
 
-> I started as a designer. Today I'm a **Frontend Developer and AI-powered product builder**: I design the look, direct AI to write and generate the build, and ship polished, aesthetic products that are live on the web, on Android and inside Telegram.
+> I started as a designer. Today I'm a **Frontend & UI Designer and AI-assisted product builder**: I design the look, direct AI to write and generate the build, and ship polished, aesthetic products that are live on the web, on Android and inside Telegram.
 > From an idea to a deployed site on **Cloudflare Pages**, fast.
 
 | | |
 |---|---|
-| 🧭 **Role** | Frontend Developer · UI Designer · AI-powered Product Builder |
+| 🧭 **Role** | Frontend & UI Designer · AI-assisted Product Builder |
 | 🤖 **Superpower** | Turning ideas into finished, beautiful products quickly with AI, with a designer's eye for detail |
 | 🎓 **Learning** | Working through **CS50** to go deeper into Full-Stack |
 | 🎨 **Background** | Frontend / UI design, logos, thumbnails |
@@ -149,7 +150,7 @@ A neuroscientist wakes up happy and finds a note in his own handwriting: *Neve i
 
 | 🤖 AI-assisted product building | 📚 Digital publishing |
 |:--:|:--:|
-| Idea to live product fast: AI does the heavy lifting, I direct the design and polish | Turn a manuscript into a reading site, app and Telegram Mini App |
+| Idea to live product fast: AI writes much of the code, I direct the design and polish | Turn a manuscript into a reading site, app and Telegram Mini App |
 
 </div>
 
